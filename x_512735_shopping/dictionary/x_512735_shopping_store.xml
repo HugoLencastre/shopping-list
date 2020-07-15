@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Store" max_length="40" name="x_512735_shopping_store" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Store name" mandatory="true" max_length="40" name="store_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Aldi" value="3"/>
+                <element inactive_on_update="false" label="Food Lion" value="6"/>
+                <element inactive_on_update="false" label="Kroger" value="5"/>
+                <element inactive_on_update="false" label="Meijer" value="4"/>
+                <element inactive_on_update="false" label="Target" value="1"/>
+                <element inactive_on_update="false" label="Tesco" value="7"/>
+                <element inactive_on_update="false" label="Walmart" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

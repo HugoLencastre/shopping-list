@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="store_name" table="x_512735_shopping_store" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Target</label>
+            <language>en</language>
+            <name>x_512735_shopping_store</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 08:55:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73f33e492f0e1010b92bd2172799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 08:55:49</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Walmart</label>
+            <language>en</language>
+            <name>x_512735_shopping_store</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 08:55:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9143e492f0e1010b92bd2172799b6e5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 08:56:09</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aldi</label>
+            <language>en</language>
+            <name>x_512735_shopping_store</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 08:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66243a492f0e1010b92bd2172799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 08:56:21</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Meijer</label>
+            <language>en</language>
+            <name>x_512735_shopping_store</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 08:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c34be492f0e1010b92bd2172799b61f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 08:56:38</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kroger</label>
+            <language>en</language>
+            <name>x_512735_shopping_store</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 08:56:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e634be492f0e1010b92bd2172799b6ea</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 08:56:49</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food Lion</label>
+            <language>en</language>
+            <name>x_512735_shopping_store</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 08:56:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e44f6492f0e1010b92bd2172799b6de</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 08:56:59</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tesco</label>
+            <language>en</language>
+            <name>x_512735_shopping_store</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 08:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c54f6492f0e1010b92bd2172799b6df</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 08:57:10</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>store_name</element>
+            <name>x_512735_shopping_store</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 08:55:49</sys_created_on>
+            <sys_id>00147e492f0e1010b92bd2172799b6ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>store_name</sys_name>
+            <sys_package display_value="Shopping List" source="x_512735_shopping">9add6a412f0e1010b92bd2172799b651</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">9add6a412f0e1010b92bd2172799b651</sys_scope>
+            <sys_update_name>sys_choice_x_512735_shopping_store_store_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 08:55:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
